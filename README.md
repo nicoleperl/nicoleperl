@@ -2,7 +2,6 @@
 
 I'm Nicole, a Data Science and Envrionmental Studies Student at UNC Chapel Hill 🐏
 
-## Quick About Me ##
 
 
 <!--
